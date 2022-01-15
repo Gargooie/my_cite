@@ -28,7 +28,7 @@ SECRET_KEY ='django-insecure-^)7j&y987syt=4&!!rn$m)%q+)p*-3+ylbjiud6xwntxn!wsug'
 DEBUG = getenv("IS_DEVELOPEMENT", True)
 # DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://djangomycite.herokuapp.com/',
+ALLOWED_HOSTS = ['127.0.0.1', 'djangomycite.herokuapp.com',
     getenv("APP_HOST")
 ]
 
