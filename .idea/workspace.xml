@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c7161b-d06e-4de1-b325-dcddc8e6b8d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_cite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_cite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_cite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_cite/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4c7161b-d06e-4de1-b325-dcddc8e6b8d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +69,7 @@
       <updated>1642259746844</updated>
       <workItem from="1642259750320" duration="117000" />
       <workItem from="1642259883393" duration="36000" />
-      <workItem from="1642259936073" duration="2822000" />
+      <workItem from="1642259936073" duration="3608000" />
     </task>
     <servers />
   </component>
