@@ -1,0 +1,18 @@
+{% load static %}
+<p>check test</p>
+
+comment file ===========================
+
+<form action="/" method="POST" >
+    {% csrf_token %}
+    {{ form }}
+    <button>Send</button>
+</form>
+
+<form action="/comment" method="POST">
+    {% csrf_token %}
+    <label for="name">Your name</label>
+    <input type="text" id="name" name="name">
+    <input type="text" id="comment_text" name="comment_text">
+    <button type="submit">Send2</button>
+</form>
