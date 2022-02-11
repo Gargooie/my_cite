@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4c7161b-d06e-4de1-b325-dcddc8e6b8d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/blog/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/blog/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/my_cite/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,6 +81,8 @@
       <workItem from="1642581510255" duration="1794000" />
       <workItem from="1642588957799" duration="20000" />
       <workItem from="1642589010728" duration="2003000" />
+      <workItem from="1642605083787" duration="597000" />
+      <workItem from="1642654023724" duration="1875000" />
     </task>
     <servers />
   </component>
